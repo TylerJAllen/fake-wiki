@@ -1,12 +1,19 @@
-.leftcolumn {
-  float: left;
-  padding: 2px;
-  border: 4px;
-  margin: 2px;
+.col-md-7 {
+  background-color: green;
 }
-.rightcolumn {
-  float: right;
-  padding: 2px;
-  border: 4px;
-  margin: 2px;
+
+.col-md-5 {
+  background-color: blue;
+}
+
+.col-md-2 {
+  background-color: gray;
+}
+
+#purplebar {
+  background-color: purple;
+}
+
+#pinkbar {
+  background-color: pink;
 }
