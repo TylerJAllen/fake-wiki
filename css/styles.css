@@ -1,3 +1,30 @@
+.header {
+  height: 80px;
+}
+
+.sidebar {
+  float:left;
+  float
+}
+
+.sidebar ul {
+  list-style-type: none;
+  text-align: left;
+  margin: 0;
+  padding: 4.8px 0px 0px 0px;
+}
+
+.container2-body {
+  margin-left: 160px;
+  padding: 16px;
+  border: 1px solid #a7d7f9;
+  border-right-width: 0;
+  margin-top: -1px;
+  background-color: #ffffff;
+  color: #222222;
+  direction: ltr;
+}
+
 .col-md-7 {
   background-color: green;
 }
